@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Vue, React, NoSQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/socke300](https://github.com/socke300)
+- 👨‍💻 All of my projects are available at [here](https://github.com/socke300)
 
-- 💬 Ask me about **Angular, NodeJS, Express**
+- 💬 Ask me about **Angular, NodeJS, Express, SQL**
 
 
 <h3 align="left">Connect with me:</h3>
