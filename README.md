@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=socke300&label=Profile%20views&color=0e75b6&style=flat" alt="socke300" /> </p>
 
 
+
+
 - 🌱 I’m currently learning **Vue, React, NoSQL**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/socke300)
@@ -11,7 +13,8 @@
 - 💬 Ask me about **Angular, NodeJS, Express, SQL**
 
 
-<h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
 </p>
 
