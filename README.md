@@ -6,7 +6,7 @@
 
 <br /><br />
 
-- 🌱 I am currently improving my skills on: **Vue, React, NoSQL**
+- 🌱 I am currently improving my skills on: **Vue, React, NoSQL, PHP**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/socke300)
 
