@@ -12,6 +12,7 @@
 
 - 💬 Ask me about: **Angular, NodeJS, Express, SQL**
 
+- 📫 How to reach me: **socke300@mailbox.org**
 
 <br /><br />
 
