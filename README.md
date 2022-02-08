@@ -6,6 +6,8 @@
 
 <br /><br />
 
+- 🔭 I’m currently working on: [AI Quick Draw](https://github.com/scout507/ai_drawing)
+
 - 🌱 I am currently improving my skills on: **Vue, React, NoSQL, PHP**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/socke300)
